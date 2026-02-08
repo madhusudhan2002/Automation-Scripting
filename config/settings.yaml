@@ -1,0 +1,17 @@
+file:
+  watch_folder: "./watch"
+  organized_folder: "./organized"
+
+email:
+  smtp_server: "smtp.gmail.com"
+  smtp_port: 587
+  sender_email: "your_email@gmail.com"
+  password: "your_password"
+
+scraper:
+  user_agents:
+    - "Mozilla/5.0"
+    - "Chrome/120.0"
+
+api:
+  base_url: "https://api.github.com"
